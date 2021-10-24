@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tagir/Desktop/HomeWork02/Animals/animal.h
+string
+-
+constants.h
+C:/Users/tagir/Desktop/HomeWork02/Animals/constants.h
+iostream
+-
+
+C:/Users/tagir/Desktop/HomeWork02/Animals/constants.h
+
+C:/Users/tagir/Desktop/HomeWork02/Animals/container.h
+animal.h
+C:/Users/tagir/Desktop/HomeWork02/Animals/animal.h
+
+C:/Users/tagir/Desktop/HomeWork02/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+Animals/container.h
+C:/Users/tagir/Desktop/HomeWork02/Animals/container.h
+

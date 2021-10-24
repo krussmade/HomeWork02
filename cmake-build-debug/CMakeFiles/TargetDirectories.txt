@@ -1,0 +1,3 @@
+C:/Users/tagir/Desktop/HomeWork02/cmake-build-debug/CMakeFiles/HomeWork02.dir
+C:/Users/tagir/Desktop/HomeWork02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tagir/Desktop/HomeWork02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
